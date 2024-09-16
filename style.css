@@ -1,0 +1,16 @@
+*{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+
+h3:hover
+{
+    color:orange;
+
+}
+h1:hover
+{
+color: cornflowerblue;
+
+}
